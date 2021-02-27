@@ -1,16 +1,17 @@
-### Hi there 👋
+### olá, tudo bem? meu nome é vinícius
+#### tenho 31 anos e sou um analista de redes em transição para analista de infraestrutura
 
-<!--
-**vinicius-blkIT/vinicius-blkIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu criei esse perfil para compartilhar a minha evolução durante a transição de carreira.
 
-Here are some ideas to get you started:
+estou aprendendo: Python | Linux | Shell Scripting | Cloud Computing | Administração de Sistemas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vinicius-blkIT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/vinicius_blkit)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-blkIT&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vinicius-blkIT)  
+
+![GitHub metrics](https://metrics.lecoq.io/vinicius-blkIT)  
+
+
