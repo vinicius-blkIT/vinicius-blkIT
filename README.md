@@ -6,7 +6,7 @@ eu criei esse perfil para compartilhar a minha evolução durante a transição 
 estou aprendendo: Python | Linux | Shell Scripting | Cloud Computing | Administração de Sistemas 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vinicius-blkIT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/vinicius_blkit)  
+[<img src='https://www.pngjoy.com/pngs/178/3539170_github-icon-github-logo-black-background-transparent-png.png' alt='github' height='40'>](https://github.com/vinicius-blkIT)  [<img src='https://img.icons8.com/color/452/linktree.png' alt='website' height='40'>](https://linktr.ee/vinicius_blkit)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-blkIT&show_icons=true)  
 
