@@ -11,17 +11,17 @@ eu criei esse perfil para compartilhar a minha evolução durante a transição 
 ## **Devops Roadmap:**
 1. aprender uma linguagem de programação: python
 2. compreender diferentes conceitos de sistemas operacionais:
-    1. gerenciamento de processos
-    2. threads e concorrência
-    3. sockets
-    4. POSICS basics
-    5. conceitos de rede
-    6. gerenciamento de E/S
-    7. virtualização
-    8. memória e armazenamento
-    9. sistema de arquivos
-    10. gerenciamento de inicialização, initd
-    11. gerenciamento de serviços, systemd
+    * gerenciamento de processos
+    * threads e concorrência
+    * sockets
+    * POSICS basics
+    * conceitos de rede
+    * gerenciamento de E/S
+    * virtualização
+    * memória e armazenamento
+    * sistema de arquivos
+    * gerenciamento de inicialização, initd
+    * gerenciamento de serviços, systemd
 
 
 
