@@ -26,7 +26,7 @@ abaixo seguem os tópicos estudados.
             * [ ] centOS RIP - esperando a comunidade sinalizar um substituto
             * [ ] red hat enterprise linux
     2. aprender a viver no terminal:
-        * [ ] tmux
+        * [x] tmux
         * [ ] ferramentas de manipulação de texto
             * [ ] awk
             * [ ] sed
@@ -59,8 +59,8 @@ abaixo seguem os tópicos estudados.
             * [ ] airodump
             * [ ] iptables
             * [ ] netstat
-        * [ ] aprender a fazer scripts
-        * [ ] vim/nano/powershell/emacs
+        * [x] aprender a fazer scripts
+        * [x] vim/nano/powershell/emacs
         * [ ] performance do sistema
             * [ ] nmon
             * [ ] iostat
@@ -73,3 +73,22 @@ abaixo seguem os tópicos estudados.
             * [x] uname
             * [ ] df
             * [x] history
+    3. redes, segurança e protocolos
+        * [ ] http
+        * [ ] https
+        * [ ] ftp
+        * [ ] ssl/tls
+        * [ ] ssh
+        * [ ] port forwarding
+        * [ ] emails
+    4. aprenda a configurar:
+        * [ ] proxy reverso
+        * [ ] forward proxy
+        * [ ] caching server
+        * [ ] load balancer
+        * [ ] firewall
+        * [ ] web server
+            * [ ] nginx
+            * [ ] apache
+4. aprenda infraestrutura como código
+    
