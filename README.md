@@ -9,7 +9,11 @@ eu criei esse perfil para compartilhar a minha evolução durante a transição 
 
 ### segue o meu guia de estudos: https://roadmap.sh/devops
 ## **Devops Roadmap:**
-1. aprender uma linguagem de programação: python
+
+1. aprender uma linguagem de programação:
+    * [ ] python
+    * [ ] go
+
 2. compreender diferentes conceitos de sistemas operacionais:
     * gerenciamento de processos
     * threads e concorrência
