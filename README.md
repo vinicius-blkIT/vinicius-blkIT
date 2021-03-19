@@ -1,5 +1,5 @@
 # **olá, tudo bem? meu nome é vinícius**
-## tenho 31 anos e sou um analista de redes em transição para sysadmin | devops | SRE
+## tenho 31 anos e sou um analista de redes em transição para DevOps
 
 eu criei esse perfil para compartilhar a minha evolução durante a transição de carreira.
 
