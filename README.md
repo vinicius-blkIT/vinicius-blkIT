@@ -9,8 +9,6 @@ eu criei esse perfil para compartilhar a minha evolução durante a transição 
 
 ### segue o meu guia de estudos: https://roadmap.sh/devops
 
-### segue a minha evolução: https://github.com/vinicius-blkIT/vinicius-blkIT/blob/master/devops_roadmap.md
-
 [<img src='https://img.icons8.com/color/452/linktree.png' alt='website' height='40'>](https://linktr.ee/vinicius_blkit)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-blkIT&show_icons=true)  
